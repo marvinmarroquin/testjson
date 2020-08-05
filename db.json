@@ -1,4 +1,5 @@
-"data":[
+{
+  "data": [
   {
   "idRequest": "312134",
   "quantity": 1,
@@ -17,7 +18,7 @@
   "cliId": "1348313213",
   "char1": ""
   },
-  {
+    {
     "idRequest": "889311",
     "quantity": 2,
     "total": 150,
@@ -89,4 +90,5 @@
     "cliId": "64448215",
     "char1": ""
   }
-]
+  ]
+}
