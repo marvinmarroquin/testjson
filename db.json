@@ -1,20 +1,92 @@
-{
-  "data":
- [
+[
   {
-  "idRequest": "312134"
+  "idRequest": "312134",
+  "quantity": 1,
+  "total": 100,
+  "name": "Jhon Connor",
+  "address": "Ciudad Futura 2021, Guatemala",
+  "wayToPay": "Contado",
+  "createdAt": "2019/06/21 18:00:00",
+  "requestId": "A3515711",
+  "comments": "DEJAR FACTURA ROSADA",
+  "additionalShops": "MONTUFAR",
+  "vuelto": 5.25,
+  "recipe": "SI",
+  "insuranceId": "G&T Seguros",
+  "nit": "112354771",
+  "cliId": "1348313213",
+  "char1": ""
   },
   {
-    "idRequest": "889311"
+    "idRequest": "889311",
+    "quantity": 2,
+    "total": 150,
+    "name": "Sarah Connor",
+    "address": "Ciudad Futura 2022, Guatemala",
+    "wayToPay": "Tarjeta de credito",
+    "createdAt": "1991/06/21 15:00:00",
+    "requestId": "A3515711",
+    "comments": "DEJAR FACTURA ROSADA",
+    "additionalShops": "Quick Plaza",
+    "vuelto": 85.5,
+    "recipe": "NO",
+    "insuranceId": "Banca Seguros",
+    "nit": "1556454",
+    "cliId": "13482887",
+    "char1": ""
   },
   {
-    "idRequest": "16413213"
+    "idRequest": "16413213",
+    "quantity": 3,
+    "total": 300,
+    "name": "Tio Joe",
+    "address": "Ciudad Futura 2023, Guatemala",
+    "wayToPay": "Seguro",
+    "createdAt": "2000/06/21 10:30:00",
+    "requestId": "A351581",
+    "comments": "FACTURA AMARILLA",
+    "additionalShops": "",
+    "vuelto": 30.20,
+    "recipe": "SI",
+    "insuranceId": "VIDA Y HOGAR",
+    "nit": "11235488",
+    "cliId": "13497722",
+    "char1": ""
   },
   {
-    "idRequest": "3222313"
+    "idRequest": "3222313",
+    "quantity": 4,
+    "total": 100,
+    "name": "Dr. Peter Silberman",
+    "address": "Earl Boen 1984, Guatemala",
+    "wayToPay": "CHEQUE",
+    "createdAt": "1941/08/8 12:00:00",
+    "requestId": "A3515711",
+    "comments": "Retirar factura firmada",
+    "additionalShops": "Antigua 5",
+    "vuelto": 51.21,
+    "recipe": "SI",
+    "insuranceId": "BANCA DE PERSONAS",
+    "nit": "0808194178",
+    "cliId": "661121",
+    "char1": ""
   },
   {
-    "idRequest": "8878451"
+    "idRequest": "8878451",
+    "quantity": 1,
+    "total": 100,
+    "name": "Kyle Reese",
+    "address": "Michael Biehn 1213, Guatemala",
+    "wayToPay": "Contado",
+    "createdAt": "2019/06/21 18:00:00",
+    "requestId": "A3515711",
+    "comments": "CUIDADO CON EL PERRO",
+    "additionalShops": "ANTIGUA 5",
+    "vuelto":32.22,
+    "recipe": "NO",
+    "insuranceId": "SEGUROS BAM",
+    "nit": "54239879",
+    "cliId": "64448215",
+    "char1": ""
   }
- ]
-}
+]
